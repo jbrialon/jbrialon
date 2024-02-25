@@ -1,5 +1,5 @@
 ### Hey 👋
-- 🔭 I’m currently working on [this](https://github.com/jbrialon/3d-trek/) a Three js explorative game
+- 🔭 I’m currently working on [this](https://github.com/jbrialon/3d-trek/), a Three js explorative experiment.
 <!--
 **jbrialon/jbrialon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
