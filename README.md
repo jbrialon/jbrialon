@@ -1,5 +1,4 @@
 ### Hey 👋
-- 🔭 I’m currently working on [Valley](https://github.com/jbrialon/valley/), a threejs explorative experiment.
 <!--
 **jbrialon/jbrialon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
