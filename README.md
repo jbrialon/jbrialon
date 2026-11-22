@@ -8,7 +8,7 @@ I'm a creative front-end developer in Annecy / Geneva, building websites and int
 - [Story](https://story.completementalest.fr): travel stories with or without GPX, admin through a Discord bot ([code](https://github.com/jbrialon/story))
 - Askobot: a 3D Twitch bot character used by several streamers, built with React Three Fiber, the Twitch API and Mistral ([code](https://github.com/jbrialon/askobot))
 - [cv.jerem.cool](https://cv.jerem.cool): Astro resume with a WebGPU sky in TSL ([code](https://github.com/jbrialon/cv))
-- [Valley](https://valley.completementalest.fr): a trek as a small 3D game ([code](https://github.com/jbrialon/valley))
+- [Valley](https://valley.completementalest.fr): a trek as a small 3D game (wip) ([code](https://github.com/jbrialon/valley))
 
 #### 🧪 Experiments
 
