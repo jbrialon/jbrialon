@@ -15,9 +15,10 @@ I'm a creative front-end developer in Annecy / Geneva, building websites and int
 - [3D Mapbox](https://3d-mapbox.jerem.cool): 3D terrain in three.js from Mapbox tiles ([code](https://github.com/jbrialon/3d-mapbox))
 - [GPU compute](https://3d-gpucompute.jerem.cool): curl-noise flow field particles on the GPU ([code](https://github.com/jbrialon/3d-gpucompute))
 - [Diamond](https://3d-diamond.jerem.cool): diamond refraction material ([code](https://github.com/jbrialon/3d-diamond))
-- [Kraken](http://kraken.jerem.cool): tentacles and sea shader for an AR game ([code](https://github.com/jbrialon/release-the-kraken))
+- [Diver](https://diver.dentsucreative.io/): Ulysse Nardin Diver: Underwater watch launch website built with three.js ([code](https://github.com/jbrialon/un-diver))
 - [Three Valley](https://three-valley.jerem.cool): impossible-geometry scene, Monument Valley inspired ([code](https://github.com/jbrialon/three-valley))
 - [Cottage](https://3d-cottage.jerem.cool) and [Substance cube](https://blender-substance-3d-cube.jerem.cool): Blender and Substance Painter to three.js ([code](https://github.com/jbrialon/3d-cottage), [code](https://github.com/jbrialon/blender-substance-3d))
+
 
 #### 🌱 Miscellaneous
 
